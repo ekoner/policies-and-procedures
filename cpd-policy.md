@@ -1,16 +1,16 @@
 # Continuing Professional Development (CPD) Policy
 
-Helping employees of [organisation-name] manage ongoing profession development, skills and competence.
+Helping employees of [organisation-name] manage ongoing professional development, skills and competence.
 
 ## Purpose
 
-[organisation-name] is committed to supporting our employees in their professional development. Our Continuing Professional Development (CPD) Policy refers to how we support the activities and programmes you take part in to learn and develop as part of your career.
+[organisation-name] is committed to supporting our employees in their professional development. Our Continuing Professional Development (CPD) Policy refers to how we support the activities and programmes you take part in to learn and develop your career.
 
 ## Scope
 
 This policy applies to all employees of [organisation-name] including permanent, temporary, part-time and full-time employees on our payroll.
 
-This policy does not apply to volunteers, contractors or consultants who are unpaid or act as as suppliers to [organisation-name].
+This policy does not apply to volunteers, contractors or consultants who are unpaid or act as suppliers to [organisation-name].
 
 ## Principles
 
@@ -32,7 +32,7 @@ Employees learning and development needs should be identified, individual and S.
 
 **Development**
 
-Professional development starts with a realistic assessment that support individual learning needs. Assessmemts are followed by learning, reflection and recording of activities and programmes by the employee in their personal CPD log.
+Professional development starts with a realistic assessment that support individual learning needs. Assessments are followed by learning, reflection and recording of activities and programmes by the employee in their personal CPD log.
     
 ## Requirements
 
