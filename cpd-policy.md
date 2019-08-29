@@ -58,7 +58,7 @@ We encourage employees to actively participate in:
 
 * Formal training sessions (free or paid)
 * Peer coaching (internal and external)
-* Providing or reciving mentoring (internal or across our industry and ecosystem)
+* Providing or receiving mentoring (internal or across our industry and ecosystem)
 * Conferences, unconferences and seminars (including volunteering and speaking)
 * On the job training including computer-based training, shadowing and job rotation
 
