@@ -2,6 +2,8 @@
 
 Helping employees of [organisation-name] manage ongoing professional development, skills and competence.
 
+**Last Updated**: [updated-date]
+
 ## Purpose
 
 [organisation-name] is committed to supporting our employees in their professional development. Our Continuing Professional Development (CPD) Policy refers to how we support the activities and programmes you take part in to learn and develop your career.
